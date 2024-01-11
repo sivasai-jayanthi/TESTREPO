@@ -1,0 +1,3 @@
+testing
+for
+uploading to git with vi editor git bash
